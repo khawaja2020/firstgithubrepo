@@ -3,3 +3,4 @@
 ## git. another push after opening the folder again
 # PULL function in VS after changes in remote repo
 # quiet easy 
+# Itna complicated kyon kiya re
