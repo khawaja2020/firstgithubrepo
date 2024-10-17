@@ -4,3 +4,4 @@
 # PULL function in VS after changes in remote repo
 # quiet easy 
 # Itna complicated kyon kiya re
+this is done
